@@ -48,7 +48,7 @@
 
 
 
-<img src="C:\Users\kioce\Desktop\Cursos DIO\BootCampEVERIS\DESAFIO1\primeiroDesafioGitGitHub\imagens\PIARES SCRUM.JPG" alt="PIARES SCRUM" style="zoom: 67%;" />
+<img src="primeiroDesafioGitGitHub/imagens/PIARES SCRUM.JPG" alt="PIARES SCRUM" style="zoom: 67%;" />
 
 
 
