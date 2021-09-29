@@ -55,7 +55,7 @@
 
 
 
-<img src="C:\Users\kioce\Desktop\Cursos DIO\BootCampEVERIS\DESAFIO1\primeiroDesafioGitGitHub\imagens\autorREADME.JPG" alt="autorREADME" style="zoom: 67%;" />
+<img src="https://github.com/CaioHangai/desafio-gitgithub-bootcamp-DIO-everis/blob/master/primeiroDesafioGitGitHub/imagens/autorREADME.JPG" alt="autorREADME" style="zoom: 67%;" />
 
 ##### Contatos:
 
