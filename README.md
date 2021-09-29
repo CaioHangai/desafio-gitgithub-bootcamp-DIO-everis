@@ -53,7 +53,9 @@
 
 ## Autor :
 
-<img src="C:\Users\kioce\Desktop\markdown.JPG" alt="markdown" style="zoom: 50%;" />
+
+
+<img src="C:\Users\kioce\Desktop\Cursos DIO\BootCampEVERIS\DESAFIO1\primeiroDesafioGitGitHub\imagens\autorREADME.JPG" alt="autorREADME" style="zoom: 67%;" />
 
 ##### Contatos:
 

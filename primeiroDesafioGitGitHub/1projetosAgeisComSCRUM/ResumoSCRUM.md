@@ -46,9 +46,13 @@
 
 **Pilares do SCRUM:**
 
-<img src="C:\Users\kioce\Desktop\PIARES SCRUM.JPG" alt="PIARES SCRUM" style="zoom:50%;" />
 
-**Características de um time SCRUM:**
+
+<img src="C:\Users\kioce\Desktop\Cursos DIO\BootCampEVERIS\DESAFIO1\primeiroDesafioGitGitHub\imagens\PIARES SCRUM.JPG" alt="PIARES SCRUM" style="zoom: 67%;" />
+
+
+
+
 
 - Equipes capazes de se auto-Organizarem.
 - As tarefas são do time e todos são responsáveis.
