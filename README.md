@@ -2,7 +2,7 @@
 
 
 
-##  :blue_heart: Resumo dos meus estudos Bootcamp NTT Data / DIO. :purple_heart: 
+##  :blue_heart: Resumo dos meus estudos Bootcamp NTT Data / DIO. :blue_heart: 
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-**Status:** 100 % concluído      **Nível: **Intermediário      **Carga Horária :** 62 Horas      **Total de Atividades:** 26
+**Status:** 100 % concluído      **Nível: ** Intermediário      **Carga Horária :** 62 Horas      **Total de Atividades:** 26
 
 
 
